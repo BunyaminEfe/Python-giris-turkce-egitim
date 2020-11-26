@@ -1,5 +1,5 @@
 # Python-giris-turkce-egitim
 Python Öğreniyoruz 
 Python öğrenemey çalışırken hatalarımız olabilir öğrenciyiz 
-# Projeyi hazırlayan kişiler
+# Projeyi Amator Bir Projedir Amacı Öğrenmektir
 # Bünyamin, 
