@@ -1,0 +1,37 @@
+
+
+
+
+#####################################
+
+1. adım inputnedirkullanimi.py
+2. adım toplama.py
+3. adım operatorler.py
+4. adım len.py
+5. adım format.py
+6. adım mantıksaloperatorler.py
+7. adım uyelikoperator.py
+
+#####################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
