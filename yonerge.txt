@@ -1,0 +1,14 @@
+Bu adımlarla takip edebilirsiniz
+#####################################
+1. adım print yapısı.py
+2. adım listeler.py
+3. adım liste.py
+4. adım pythonsözlükleri.py
+5. adım mantksal degerler ve karslastrma operatorleri.py
+6. adım mantksalbaglaclar.py
+7. adım tuple.py
+8. adım if elif else.py
+9. adım python döngüler.py
+10. adım For Loops.py
+11. adımpython_function.py
+#####################################
